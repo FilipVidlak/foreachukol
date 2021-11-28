@@ -21,7 +21,7 @@ namespace MinAMax
         {
             int min = int.Parse(textBox1.Text);
             int max = int.Parse(textBox3.Text);
-            int i = min;
+            int i = min; //zjednodušení zápisu
             int j = 2;
             while (i <= max)
             {
@@ -69,7 +69,7 @@ namespace MinAMax
                     label4.Text = p;
                 }
             }
-            if (i % 7 == 0)
+            if (i % 7 == 0) //zbytečný if
             {
                 string p = Convert.ToString(i);
                 label4.Text = p;
