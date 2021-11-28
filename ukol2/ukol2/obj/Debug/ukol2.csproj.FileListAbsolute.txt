@@ -1,0 +1,22 @@
+C:\Users\filip\source\repos\ukol2\ukol2\bin\Debug\ukol2.exe.config
+C:\Users\filip\source\repos\ukol2\ukol2\bin\Debug\ukol2.exe
+C:\Users\filip\source\repos\ukol2\ukol2\bin\Debug\ukol2.pdb
+C:\Users\filip\source\repos\ukol2\ukol2\obj\Debug\ukol2.csproj.AssemblyReference.cache
+C:\Users\filip\source\repos\ukol2\ukol2\obj\Debug\ukol2.Properties.Resources.resources
+C:\Users\filip\source\repos\ukol2\ukol2\obj\Debug\ukol2.csproj.GenerateResource.cache
+C:\Users\filip\source\repos\ukol2\ukol2\obj\Debug\ukol2.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\ukol2\ukol2\obj\Debug\ukol2.exe
+C:\Users\filip\source\repos\ukol2\ukol2\obj\Debug\ukol2.pdb
+C:\Users\filip\source\repos\ukol2\ukol2\obj\Debug\ukol2.Form1.resources
+C:\Users\filip\source\repos\ukol2\ukol2\obj\Debug\ukol2.Form2.resources
+C:\Users\filip\source\repos\Větvení 2\ukol2\ukol2\bin\Debug\ukol2.exe.config
+C:\Users\filip\source\repos\Větvení 2\ukol2\ukol2\bin\Debug\ukol2.exe
+C:\Users\filip\source\repos\Větvení 2\ukol2\ukol2\bin\Debug\ukol2.pdb
+C:\Users\filip\source\repos\Větvení 2\ukol2\ukol2\obj\Debug\ukol2.csproj.AssemblyReference.cache
+C:\Users\filip\source\repos\Větvení 2\ukol2\ukol2\obj\Debug\ukol2.Form1.resources
+C:\Users\filip\source\repos\Větvení 2\ukol2\ukol2\obj\Debug\ukol2.Form2.resources
+C:\Users\filip\source\repos\Větvení 2\ukol2\ukol2\obj\Debug\ukol2.Properties.Resources.resources
+C:\Users\filip\source\repos\Větvení 2\ukol2\ukol2\obj\Debug\ukol2.csproj.GenerateResource.cache
+C:\Users\filip\source\repos\Větvení 2\ukol2\ukol2\obj\Debug\ukol2.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\Větvení 2\ukol2\ukol2\obj\Debug\ukol2.exe
+C:\Users\filip\source\repos\Větvení 2\ukol2\ukol2\obj\Debug\ukol2.pdb
