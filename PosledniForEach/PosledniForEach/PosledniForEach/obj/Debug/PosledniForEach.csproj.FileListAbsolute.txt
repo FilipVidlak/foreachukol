@@ -1,0 +1,10 @@
+C:\Users\Strovex\source\repos\PosledniForEach\PosledniForEach\bin\Debug\PosledniForEach.exe.config
+C:\Users\Strovex\source\repos\PosledniForEach\PosledniForEach\bin\Debug\PosledniForEach.exe
+C:\Users\Strovex\source\repos\PosledniForEach\PosledniForEach\bin\Debug\PosledniForEach.pdb
+C:\Users\Strovex\source\repos\PosledniForEach\PosledniForEach\obj\Debug\PosledniForEach.csprojAssemblyReference.cache
+C:\Users\Strovex\source\repos\PosledniForEach\PosledniForEach\obj\Debug\PosledniForEach.Form1.resources
+C:\Users\Strovex\source\repos\PosledniForEach\PosledniForEach\obj\Debug\PosledniForEach.Properties.Resources.resources
+C:\Users\Strovex\source\repos\PosledniForEach\PosledniForEach\obj\Debug\PosledniForEach.csproj.GenerateResource.cache
+C:\Users\Strovex\source\repos\PosledniForEach\PosledniForEach\obj\Debug\PosledniForEach.csproj.CoreCompileInputs.cache
+C:\Users\Strovex\source\repos\PosledniForEach\PosledniForEach\obj\Debug\PosledniForEach.exe
+C:\Users\Strovex\source\repos\PosledniForEach\PosledniForEach\obj\Debug\PosledniForEach.pdb
