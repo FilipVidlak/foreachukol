@@ -1,0 +1,10 @@
+C:\Users\Strovex\source\repos\MinAMax\MinAMax\bin\Debug\MinAMax.exe.config
+C:\Users\Strovex\source\repos\MinAMax\MinAMax\bin\Debug\MinAMax.exe
+C:\Users\Strovex\source\repos\MinAMax\MinAMax\bin\Debug\MinAMax.pdb
+C:\Users\Strovex\source\repos\MinAMax\MinAMax\obj\Debug\MinAMax.csprojAssemblyReference.cache
+C:\Users\Strovex\source\repos\MinAMax\MinAMax\obj\Debug\MinAMax.Form1.resources
+C:\Users\Strovex\source\repos\MinAMax\MinAMax\obj\Debug\MinAMax.Properties.Resources.resources
+C:\Users\Strovex\source\repos\MinAMax\MinAMax\obj\Debug\MinAMax.csproj.GenerateResource.cache
+C:\Users\Strovex\source\repos\MinAMax\MinAMax\obj\Debug\MinAMax.csproj.CoreCompileInputs.cache
+C:\Users\Strovex\source\repos\MinAMax\MinAMax\obj\Debug\MinAMax.exe
+C:\Users\Strovex\source\repos\MinAMax\MinAMax\obj\Debug\MinAMax.pdb
